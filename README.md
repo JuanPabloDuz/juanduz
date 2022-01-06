@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JuanPabloDuz
+- 👋 Hi, I’m @juanduz
 - 👀 I’m interested in renewable energies
 - 🌱 I’m currently learning infraestructure as code
 - 💞️ I’m looking to collaborate on terraform
