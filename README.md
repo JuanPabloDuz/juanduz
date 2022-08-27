@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juanduz
-- 👀 I’m interested in renewable energies
+- 👀 I’m interested in insfraestruture
 - 🌱 I’m currently learning infraestructure as code
 - 💞️ I’m looking to collaborate on terraform
 - 📫 juanpabloduz@gmail.com
